@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #fcfcfd;
+  color: #1f2937;
+  overflow-x: hidden;
+}
+
+/* Parallelogram Banner Clip */
+.skew-banner {
+  clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%);
+}
+
+@media (max-width: 768px) {
+  .skew-banner {
+    clip-path: none;
+  }
+}
+
