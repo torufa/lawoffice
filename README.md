@@ -2,6 +2,8 @@
 
 A modern and responsive law firm website built with React, TypeScript, Vite, and Tailwind CSS. The project presents legal services, firm information, attorney profiles, and practice areas through a clean and professional user interface.
 
+Live Preview: https://lawoffice-ten.vercel.app/
+
 ---
 
 ## 📌 Project Overview
