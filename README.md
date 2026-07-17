@@ -1,4 +1,4 @@
-# ⚖️ Law Office 🌟
+# ⚖️ Law Office
 
 Build trust through elegant design with a modern and professional law firm website.
 
