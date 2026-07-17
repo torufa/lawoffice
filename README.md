@@ -11,7 +11,6 @@ Build trust through elegant design with a modern and professional law firm websi
 - [Installation](#installation)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
